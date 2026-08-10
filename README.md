@@ -35,6 +35,14 @@ Daily returns were calculated from consecutive closing prices, and their standar
 **5. Seasonal Decomposition**
 An additive seasonal decomposition with a 252-trading-day period was performed on NVDA and PRGO, the strongest and weakest cumulative-growth performers respectively.
 
+# VISUALIZATIONS
+![Closing Price of Selected Stocks](CLOSING_PRICE_OF_SELECTED_COMP.png)
+![Percentage Growth of Selected Companies](PCT_GROWTH_OF_SELECTED_COMPANIES.png)
+![NVDA Seasonal Decomposition](
+![PRGO_Seasonal Decomposition](
+![NVDA Moving Average](NVDA_MA.png)
+![PRGO Moving Average](PRGO_MA.png)
+
 # Conclusion
 This project demonstrates how multiple time-series techniques can be combined to investigate historical financial data. Percentage growth, volatility analysis, seasonal decomposition, and moving-average smoothing provided complementary perspectives on stock-price behaviour.
 The analysis highlighted a strong upward trajectory for NVDA and a prolonged decline followed by stabilization for PRGO.
